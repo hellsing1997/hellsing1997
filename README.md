@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellsing1997
-- 👀 I’m interested in 编程and游戏
+- 👀 I’m interested in program and game
 - 🌱 I’m currently learning 各种入门 以及尝试将编程运用到神经科学领域
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
